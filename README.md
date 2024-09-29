@@ -16,7 +16,7 @@
   </a>
 
    <a href="https://x.com/rakx_prabhu" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="webofayush" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="x:rakx_prabhu" height="30" width="40" />
   </a>
 </p>
 
